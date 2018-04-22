@@ -1,3 +1,4 @@
 markdown syntax
 feature-A
-fix-b
+fix-B
+feature-C
